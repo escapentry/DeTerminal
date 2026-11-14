@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Terminal</string>
+    <string name="files_permission_prompt">Internal storage permission is required to manage files without su.</string>
+    <string name="grant_files_permission">Grant access</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="command_hint">Enter command…</string>
+</resources>

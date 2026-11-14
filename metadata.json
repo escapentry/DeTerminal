@@ -1,0 +1,8 @@
+{
+  "name": "Terminal",
+  "description": "Minimal, fast Obsidian-themed Android shell terminal with sh and su access, device-model tidy prompt, automatic font scaling, and internal file management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
